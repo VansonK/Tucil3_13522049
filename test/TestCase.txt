@@ -1,0 +1,23 @@
+Pengujian 1 :
+start : gray
+end : dull
+
+Pengujian 2 : 
+start : flying
+end : create
+
+Pengujian 3 : 
+start : create
+end : flying
+
+Pengujian 4 : 
+start : laptop
+end : beaten 
+
+Pengujian 5 : 
+start : beef
+end : hoof
+
+Pengujian 6 : 
+start : mouse
+end : blobs
